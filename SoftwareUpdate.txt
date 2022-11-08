@@ -1,1 +1,1 @@
-Capitalize OBB acronym (#7383)
+OpenVino 2024.0.0 (#8726)
