@@ -1,1 +1,1 @@
-Add docstrings to new HUB functions (#7576)
+Add quantization support to TensorFlow.js converter (#7008)
