@@ -1,1 +1,1 @@
-ultralytics 8.1.27 batched tracking fixes (#8842)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
