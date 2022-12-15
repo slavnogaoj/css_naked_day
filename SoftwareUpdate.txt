@@ -1,1 +1,1 @@
-fix yolo classify model loading error (#9196)
+Add Amazon Sagemaker Docs integrations page (#7293)
