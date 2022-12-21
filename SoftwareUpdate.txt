@@ -1,1 +1,1 @@
-Update YOLOv3 and YOLOv5 YAMLs (#7574)
+Fix RTDETR generate anchor grid out of boundary (#7247)
