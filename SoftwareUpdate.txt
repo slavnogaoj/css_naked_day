@@ -1,1 +1,1 @@
-Auto-format by https://ultralytics.com/actions
+Fix ONNX GPU inference bug (#6840)
