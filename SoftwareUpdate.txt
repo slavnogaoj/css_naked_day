@@ -1,1 +1,1 @@
-* fix for KeyError: 'epoch'
+Add CoreML Docs Integrations Page (#8063)
