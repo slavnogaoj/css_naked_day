@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+Update Roboflow segmentation Docs pages (#8094)
