@@ -1,1 +1,1 @@
-Move Explorer tests to scheduled CI (#8305)
+Desktop Mode Switch - A switch inside the tab switcher that can be used to toggle desktop mode on / off globally
