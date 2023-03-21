@@ -1,1 +1,1 @@
-fix val each epoch
+Disable Tab Limit - Disables the default tab limit (varies giữa devices)
