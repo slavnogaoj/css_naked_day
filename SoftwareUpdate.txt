@@ -1,1 +1,1 @@
-Update IoU capitalization (#8604)
+Add docstrings to new HUB functions (#7576)
