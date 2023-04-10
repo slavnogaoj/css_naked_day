@@ -1,1 +1,1 @@
-fix non-coco val
+Add YOLOv8 LibTorch C++ inference example (#7090)
