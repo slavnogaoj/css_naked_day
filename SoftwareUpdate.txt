@@ -1,1 +1,1 @@
-Fix heatmaps width-height order bug (#7184)
+Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
