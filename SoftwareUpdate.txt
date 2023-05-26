@@ -1,1 +1,1 @@
-Add simple-utilities.md Docs page (#8269)
+Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)
