@@ -1,1 +1,1 @@
-Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
+ultralytics 8.1.0 YOLOv8 Oriented Bounding Box (OBB) release (#7463)
