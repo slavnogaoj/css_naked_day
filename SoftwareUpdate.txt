@@ -1,1 +1,1 @@
-Add PaddlePaddle Docs Integrations Page (#8858)
+Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)
