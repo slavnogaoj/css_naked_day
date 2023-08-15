@@ -1,1 +1,1 @@
-Expand Model method type hinting (#8279)
+ultralytics 8.0.239 Ultralytics Actions and hub-sdk adoption (#7431)
