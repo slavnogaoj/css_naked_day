@@ -1,1 +1,1 @@
-Fix TFLite INT8 for OBB (#7989)
+Update OpenVINO INT8 export (#7515)
