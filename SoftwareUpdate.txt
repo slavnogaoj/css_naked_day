@@ -1,1 +1,1 @@
-Fix OBB xywh-angle concatenation bug (#7404)
+ultralytics 8.0.236 dataset semantic & SQL search API (#7136)
