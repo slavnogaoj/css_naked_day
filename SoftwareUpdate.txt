@@ -1,1 +1,1 @@
-fix for KeyError: 'epoch' (#48)
+Fix OpenVINO links (#7930)
