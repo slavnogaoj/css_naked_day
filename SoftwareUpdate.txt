@@ -1,1 +1,1 @@
-Add OBB models to GITHUB_ASSET_NAMES (#7425)
+Add KaTeX support + updates to YOLOv9 model page (#8531)
