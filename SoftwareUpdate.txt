@@ -1,1 +1,1 @@
-Fix OpenVINO missing batch-size bug (#9264)
+Add missing single-line docstrings (#8362)
