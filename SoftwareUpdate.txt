@@ -1,1 +1,1 @@
-Replacing Images for torchscript.md (#8596)
+Update format.yml to pull_request_target (#7460)
