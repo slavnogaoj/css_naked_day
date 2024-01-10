@@ -1,1 +1,1 @@
-Allow Annotator PIL.Image inputs (#8397)
+Update YOLOv3 and YOLOv5 YAMLs (#7574)
