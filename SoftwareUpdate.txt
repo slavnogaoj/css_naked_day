@@ -1,1 +1,1 @@
-fix non-coco val
+Add object blurring & object cropping modules in Ultralytics docs (#7434)
