@@ -1,1 +1,1 @@
-Update CI.md with CI links (#8786)
+Expand Model method type hinting (#8279)
