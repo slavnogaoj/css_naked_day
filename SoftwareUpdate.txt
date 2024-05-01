@@ -1,1 +1,1 @@
-Add horizontal Mosaic3 augmentation (#6898)
+Updating a typo on paddlepaddle.md (#9108)
