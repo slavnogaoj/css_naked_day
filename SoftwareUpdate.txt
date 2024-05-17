@@ -1,1 +1,1 @@
-Capitalize OBB acronym (#7383)
+Fix heatmaps width-height order bug (#7184)
